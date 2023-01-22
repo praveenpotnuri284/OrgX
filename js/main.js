@@ -4,54 +4,54 @@ const viewMoreEl = document.querySelector('.view-more');
 const btnMoreEl = document.querySelector('.btn-more');
 
 const teamInfo = [
-  {
-    name: 'Sarah Sinclair',
-    position: 'Android Developer',
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
-    sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
-    quos animi eligendi eos, dignissimos perferendis nesciunt?`,
-    imageUrl: ['imgs/1.png', 'Photo of Sarah'],
-  },
-  {
-    name: 'Naol Kidanu',
-    position: 'Frontend Engineer',
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
-    sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
-    quos animi eligendi eos, dignissimos perferendis nesciunt?`,
-    imageUrl: ['imgs/2.png', 'Photo of Naol'],
-  },
-  {
-    name: 'Fozia Abako',
-    position: 'UI Designer',
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
-    sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
-    quos animi eligendi eos, dignissimos perferendis nesciunt?`,
-    imageUrl: ['imgs/3.png', 'Photo of Fozia'],
-  },
-  {
-    name: 'Feben Negussie',
-    position: 'Marketing',
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
-    sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
-    quos animi eligendi eos, dignissimos perferendis nesciunt?`,
-    imageUrl: ['imgs/4.png', 'Photo of Feben'],
-  },
-  {
-    name: 'Mohammed Hussen',
-    position: 'Backend Engineer',
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
-    sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
-    quos animi eligendi eos, dignissimos perferendis nesciunt?`,
-    imageUrl: ['imgs/5.png', 'Photo of Mohammed'],
-  },
-  {
-    name: 'Abdu Nurye',
-    position: 'Fullstack Engineer',
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
-    sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
-    quos animi eligendi eos, dignissimos perferendis nesciunt?`,
-    imageUrl: ['imgs/6.png', 'Photo of Abdu'],
-  },
+  // {
+  //   name: 'Sarah Sinclair',
+  //   position: 'Android Developer',
+  //   description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
+  //   sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
+  //   quos animi eligendi eos, dignissimos perferendis nesciunt?`,
+  //   imageUrl: ['imgs/1.png', 'Photo of Sarah'],
+  // },
+  // {
+  //   name: 'Naol Kidanu',
+  //   position: 'Frontend Engineer',
+  //   description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
+  //   sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
+  //   quos animi eligendi eos, dignissimos perferendis nesciunt?`,
+  //   imageUrl: ['imgs/2.png', 'Photo of Naol'],
+  // },
+  // {
+  //   name: 'Fozia Abako',
+  //   position: 'UI Designer',
+  //   description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
+  //   sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
+  //   quos animi eligendi eos, dignissimos perferendis nesciunt?`,
+  //   imageUrl: ['imgs/3.png', 'Photo of Fozia'],
+  // },
+  // {
+  //   name: 'Feben Negussie',
+  //   position: 'Marketing',
+  //   description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
+  //   sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
+  //   quos animi eligendi eos, dignissimos perferendis nesciunt?`,
+  //   imageUrl: ['imgs/4.png', 'Photo of Feben'],
+  // },
+  // {
+  //   name: 'Mohammed Hussen',
+  //   position: 'Backend Engineer',
+  //   description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
+  //   sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
+  //   quos animi eligendi eos, dignissimos perferendis nesciunt?`,
+  //   imageUrl: ['imgs/5.png', 'Photo of Mohammed'],
+  // },
+  // {
+  //   name: 'Abdu Nurye',
+  //   position: 'Fullstack Engineer',
+  //   description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
+  //   sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
+  //   quos animi eligendi eos, dignissimos perferendis nesciunt?`,
+  //   imageUrl: ['imgs/6.png', 'Photo of Abdu'],
+  // },
 ];
 
 const servicesInfo = [
