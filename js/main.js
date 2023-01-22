@@ -9,7 +9,7 @@ const teamInfo = [
     position: 'Founder and CEO',
     description: `
     We might operate on opposite ends of the world, but we’re all on the same team. We’re here to help you and do our best for your clients.`,
-    imageUrl: ['imgs/1.jpg', 'Photo of CEO'],
+    imageUrl: ['imgs/1.jpeg', 'Photo of CEO'],
   }
   // {
   //   name: 'Naol Kidanu',
