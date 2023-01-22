@@ -4,20 +4,17 @@ const viewMoreEl = document.querySelector('.view-more');
 const btnMoreEl = document.querySelector('.btn-more');
 
 const teamInfo = [
-  // {
-  //   name: 'Sarah Sinclair',
-  //   position: 'Android Developer',
-  //   description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
-  //   sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
-  //   quos animi eligendi eos, dignissimos perferendis nesciunt?`,
-  //   imageUrl: ['imgs/1.png', 'Photo of Sarah'],
-  // },
+  {
+    name: 'Hemanjan Reddy Pundla',
+    position: 'CEO and App Developer',
+    description: `
+    We might operate on opposite ends of the world, but we’re all on the same team. We’re here to help you and do our best for your clients.`,
+    imageUrl: ['imgs/1.jpg', 'Photo of CEO'],
+  }
   // {
   //   name: 'Naol Kidanu',
   //   position: 'Frontend Engineer',
-  //   description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate ex esse
-  //   sapiente. Distinctio quae adipisci ipsum sed nihil iste tenetur, minus laboriosam,
-  //   quos animi eligendi eos, dignissimos perferendis nesciunt?`,
+  //   description: ``,
   //   imageUrl: ['imgs/2.png', 'Photo of Naol'],
   // },
   // {
