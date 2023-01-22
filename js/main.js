@@ -6,7 +6,7 @@ const btnMoreEl = document.querySelector('.btn-more');
 const teamInfo = [
   {
     name: 'Hemanjan Reddy Pundla',
-    position: 'CEO and App Developer',
+    position: 'Founder and CEO',
     description: `
     We might operate on opposite ends of the world, but we’re all on the same team. We’re here to help you and do our best for your clients.`,
     imageUrl: ['imgs/1.jpg', 'Photo of CEO'],
